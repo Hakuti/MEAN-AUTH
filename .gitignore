@@ -1,2 +1,2 @@
 node_modules
-/config/keys.ts
+/lib/config/keys.ts
